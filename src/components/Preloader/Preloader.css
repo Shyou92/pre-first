@@ -46,6 +46,6 @@
     animation: rotate linear 3s infinite;
   -webkit-animation-timing-function: cubic-bezier(0.55, 0.085, 0.68, 0.53);
   animation-timing-function: cubic-bezier(0.55, 0.085, 0.68, 0.53);
-  -webkit-animation-duration: 3s;
-    animation-duration: 3s;
+  -webkit-animation-duration: 4s;
+    animation-duration: 4s;
 }
